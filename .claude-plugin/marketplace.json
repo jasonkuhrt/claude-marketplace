@@ -6,6 +6,11 @@
   },
   "plugins": [
     {
+      "name": "claude-code",
+      "source": "./plugins/claude-code",
+      "description": "Claude Code configuration and marketplace management"
+    },
+    {
       "name": "diagrams",
       "source": "./plugins/diagrams",
       "description": "Diagram generation conventions"
